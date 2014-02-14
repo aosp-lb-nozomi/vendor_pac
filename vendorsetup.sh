@@ -7,6 +7,9 @@ add_lunch_combo pac_smultron-userdebug
 add_lunch_combo pac_urushi-userdebug
 add_lunch_combo pac_zeus-userdebug
 add_lunch_combo pac_zeusc-userdebug
+# Xperia 2012 (fuji)
+add_lunch_combo pac_nozomi-userdebug
+add_lunch_combo pac_aoba-userdebug
 # Galaxy S2 Series
 add_lunch_combo pac_hercules-userdebug
 add_lunch_combo pac_i9100-userdebug
